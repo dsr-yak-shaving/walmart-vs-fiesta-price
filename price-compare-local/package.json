@@ -1,0 +1,8 @@
+{
+  "name": "price-compare-local",
+  "version": "1.0.0",
+  "description": "Compare Walmart and Fiesta Mart prices by unit price. Runs locally, no dependencies.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test-parser.js" },
+  "engines": { "node": ">=18" }
+}
