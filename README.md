@@ -1,4 +1,4 @@
-# Walmart vs Fiesta Mart price compare (local)
+# Walmart vs Fiesta Mart price 
 
 Enter a ZIP and one or more items. The app searches the web for each store's listed price and compares them by price per unit (per oz, fl oz or count).
 
